@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\MYCODE\Android28_QiushiPullToRefresh\library_pullToReflect\src\main\assets"/><source path="E:\MYCODE\Android28_QiushiPullToRefresh\library_pullToReflect\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\MYCODE\Android28_QiushiPullToRefresh\library_pullToReflect\src\debug\assets"/></dataSet></merger>
